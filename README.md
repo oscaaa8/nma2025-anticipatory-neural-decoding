@@ -43,7 +43,7 @@ Neuromatch Academy (NMA) is a rigorous, project-based international program focu
 
 ## 📁 Repository Contents
 
-- `NMA_Project_Final.ipynb`: Full notebook pipeline (data loading, analysis, plots)
+- `Final_Data_Pipeline_Notebook.ipynb`: Full notebook pipeline (data loading, analysis, plots)
 - `NMA_Summary.pdf`: Final project summary slide deck
 - `figures/`: output plots and visuals
 
