@@ -20,9 +20,9 @@ Neuromatch Academy (NMA) is a rigorous, project-based international program focu
 
 ---
 
-## 👨‍🔬 My Role & Contributions
+## 💻 My Role & Contributions
 
-- Selected and preprocessed supervised-subject calcium imaging and behavioral data
+- Selected and **preprocessed** supervised-subject calcium imaging and behavioral data
 - Built the complete analysis pipeline from scratch in Python and Jupyter (see notebook)
 - Applied **Cohen’s d** to classify neurons as anticipatory, non-anticipatory, or neutral
 - Visualized population-wide selectivity distributions and interpretive histograms
@@ -45,7 +45,7 @@ Neuromatch Academy (NMA) is a rigorous, project-based international program focu
 
 - `NMA_Project_Final.ipynb`: Full notebook pipeline (data loading, analysis, plots)
 - `NMA_Summary.pdf`: Final project summary slide deck
-- `figures/`: (Optional) output plots and visuals
+- `figures/`: output plots and visuals
 
 ---
 
