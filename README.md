@@ -16,7 +16,7 @@ Using large-scale in vivo calcium imaging data from **Zhong et al. (2025)** (up 
 
 Neuromatch Academy (NMA) is a rigorous, project-based international program focused on computational neuroscience and data science. Over three weeks, participants gain hands-on experience with models, neural data, and team science practices.
 
-🧾 [My Certificate of Completion](#) ← *https://portal.neuromatchacademy.org/certificate/fc133ae5-c5d8-4aec-9460-0fed90dc0e1c*
+🧾 [My Certificate of Completion](https://portal.neuromatchacademy.org/certificate/fc133ae5-c5d8-4aec-9460-0fed90dc0e1c) ← 
 
 ---
 
